@@ -1,0 +1,3 @@
+package examples.featuresservice
+import examples.featuresservice.api._
+import examples.featuresservice.model._
